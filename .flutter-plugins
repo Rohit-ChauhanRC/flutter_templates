@@ -1,7 +1,10 @@
 # This is a generated file; do not edit or check into version control.
-flutter_plugin_android_lifecycle=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
-image_picker=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+22\\
-path_provider=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.27\\
-path_provider_linux=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
-path_provider_macos=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+8\\
-path_provider_windows=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+3\\
+flutter_plugin_android_lifecycle=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-2.0.0\\
+image_cropper=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_cropper-1.4.0\\
+image_picker=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.7.3\\
+image_picker_for_web=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker_for_web-2.0.0\\
+path_provider=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-2.0.1\\
+path_provider_linux=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.0.0\\
+path_provider_macos=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-2.0.0\\
+path_provider_windows=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.0\\
+sqflite=D:\\Software\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\sqflite-2.0.0+3\\
